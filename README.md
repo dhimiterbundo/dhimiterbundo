@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 - JavaScript (ES5, 6, 7,...)
   - VueJS 2+
-  - NestJS
   - AngularJs
   - Ionic
 - TypeScript
