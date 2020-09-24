@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### My Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimiterbundo&layout=compact&theme=vue-dark" alt="dhimiterbundo" /> 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimiterbundo&layout=compact&theme=vue-dark" alt="dhimiterbundo" /> <br>
 <img src="https://github-readme-stats.vercel.app/api?username=dhimiterbundo&show_icons=true&theme=vue-dark&count_private=true" alt="dhimiterbundo" />
 </p>
 
