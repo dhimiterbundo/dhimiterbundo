@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My STACK
+### My STACK ⚙️
 
 - JavaScript (ES5, 6, 7,...)
   - VueJS 2+
@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 - TypeScript
   - Angular2+
 
-### My Stats
+### My Stats 📊
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimiterbundo&layout=compact&theme=vue-dark" alt="dhimiterbundo" /> <br>
 <img src="https://github-readme-stats.vercel.app/api?username=dhimiterbundo&show_icons=true&theme=vue-dark&count_private=true" alt="dhimiterbundo" />
 </p>
 
-### My links
+### My links 🔗
 - [My LinkedIn](https://al.linkedin.com/in/dhimit%C3%ABr-bundo-058877150)
