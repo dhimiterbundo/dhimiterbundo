@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 </p>
 
 ### My links 🔗
-- [My LinkedIn](https://al.linkedin.com/in/dhimit%C3%ABr-bundo-058877150)
+- [LinkedIn](https://al.linkedin.com/in/dhimit%C3%ABr-bundo-058877150)
