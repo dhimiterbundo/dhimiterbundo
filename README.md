@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 -->
 ### My STACK ⚙️
 
-- JavaScript (ES5, 6, 7,...)
-  - VueJS 2+
-  - AngularJs
-  - Ionic
-- TypeScript
-  - Angular2+
+- Frontend
+ - Angular
+ - React
+ - Vue
+
 
 ### My Stats 📊
 
