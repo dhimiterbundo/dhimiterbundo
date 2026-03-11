@@ -11,8 +11,8 @@ Building developer tools, UI systems and web applications.
 
 - 💻 Frontend engineer focused on **Angular, React and modern web architectures**
 - 🧠 Strong experience with **TypeScript, APIs, Swagger & UML documentation**
-- 🛠 Building **developer tools and web platforms**
-- 📈 Interested in **SaaS products, automation and monetization**
+- 🛠 Building **web platforms**
+- 📈 Interested in **SaaS products, automation**
 - 🌍 Based in **Albania**
 - 🧩 Passionate about **clean UI/UX and scalable frontend architecture**
 
@@ -51,14 +51,6 @@ Building developer tools, UI systems and web applications.
 </p>
 
 ---
-
-## 🧠 What I Like Building
-
-- Developer tools
-- Documentation platforms
-- UI component systems
-- SaaS products
-- Productivity web apps
 
 ---
 
